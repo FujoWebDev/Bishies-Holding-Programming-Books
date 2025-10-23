@@ -8,7 +8,31 @@ Bishies Holding Programming Books, based on the legendary [Anime Girls Holding P
 
 </div>
 
-# Contribution Guidelines
+## How to Contribute
+
+There's two ways to contribute:
+
+### Create a New Image
+
+1. Find an image of a bishie holding a book (check out [our own characters bases](./_bases/characters/))
+2. Edit a programming book in place of the original one (find some [in our own bases](./_bases/))
+3. Upload it in the appropriate folder (see below)
+
+### Add to our Bases
+
+#### Add a New Bishie
+
+1. Find an image of a bishie holding a book
+2. Edit the book part to be transparent
+3. Add it to our [our characters bases](./_bases/characters/))
+
+#### Add a new Book
+
+1. Find the cover of a programming book
+2. Add it [to our own bases](./_bases/)
+3. If you can find them, also add the back and the spine
+
+## Contribution Guidelines
 
 * __NSFW images aren't allowed due to [Github Site Policy](https://docs.github.com/en/site-policy);__
 
