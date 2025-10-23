@@ -1,5 +1,12 @@
 # Bishies-Holding-Programming-Books
+
+<div align="center">
+    
+![Seto Kaiba holding Effective TypeScript](./TypeScript/Seto_Kaiba_Effective_Typescript.png)
+
 Bishies Holding Programming Books, based on the legendary [Anime Girls Holding Programming Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books).
+
+</div>
 
 # Contribution Guidelines
 
